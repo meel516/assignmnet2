@@ -1,0 +1,8 @@
+.conatiner.d-inline.col-3{
+  height:200px;
+  width:200px;
+}
+.img-thumbnail{
+  max-width: 100%;
+  max-height: 100%;
+}
